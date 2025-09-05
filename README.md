@@ -1,12 +1,51 @@
-# React + Vite
+# FUTURE_FS_02
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Project: Bhoomika Store (Task 2)
 
-Currently, two official plugins are available:
+A mini e-commerce application built with **React, Vite, and Tailwind CSS** as part of **Future Interns Task 2**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### ✨ Features
+- 🛍️ Product listing with categories & sorting  
+- 🖼️ Product images with details  
+- 🛒 Cart management  
+- ✅ Checkout & Order success flow  
+- 🔄 Reset Data (clear localStorage in one click)  
+- 📱 Responsive design with Tailwind CSS  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📷 Screenshots
+
+### 🏠 Home Page
+![Home](./src/screenshots/home.png)
+
+### 📦 Products Page
+![Products](./src/screenshots/products.png)
+
+### 🎉 Order Success
+![Order Success](./src/screenshots/order-success.png)
+
+---
+
+## ⚙️ Tech Stack
+- **Frontend:** React, Vite  
+- **Styling:** Tailwind CSS  
+- **State Management:** React Context API  
+- **Storage:** LocalStorage  
+
+---
+
+## 🚀 Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/bhoomika-muppala/FUTURE_FS_02.git
+
+# Navigate into the project
+cd FUTURE_FS_02
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
