@@ -1,5 +1,5 @@
 // src/data.js
-import canvasSneakers from "./assets/canvas-Sneakers.jpg";
+import canvasSneakers from "./assets/canvas-sneakers.jpg";
 import denimJacket from "./assets/denim-jacket.jpg";
 import goldHoop from "./assets/gold-hoop-earrings.jpg";
 import goldNecklace from "./assets/gold-necklace.jpg";
